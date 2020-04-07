@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-Temperature converter which automatically converts between Celsius, Fahrenheit, Kelvin.
+Temperature converter which automatically converts between Celsius, Fahrenheit, Kalvin.
 
 ## Technologies
 * [Spring Boot] - version 2.1.6
