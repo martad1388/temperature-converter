@@ -23,7 +23,7 @@ Temperature converter which automatically converts between Celsius, Fahrenheit, 
 ## Installation
 This app is a Spring Boot application built using Maven. You can build a jar file and run it from the command line:
 
-git clone https://github.com/martad1388/temperature-converter
+git clone https://github.com/martadrabik-dabrowska/temperature-converter
 ```sh
 cd temperature-converter
 ./mvnw package
