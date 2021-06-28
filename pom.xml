@@ -15,7 +15,7 @@
 	<description>Converter for temperatures in different units</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<vaadin.version>14.1.5</vaadin.version>
+		<vaadin.version>14.6.2</vaadin.version>
 	</properties>
 	<dependencies>
 		<dependency>
